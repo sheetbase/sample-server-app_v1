@@ -1,0 +1,9 @@
+{
+    "extends": "./node_modules/@sheetbase/app-scripts/config/tsconfig.json",
+    "compilerOptions": {
+      "outDir": "./dist"
+    },
+    "files": [
+      "./src/index.ts"
+    ]
+  }

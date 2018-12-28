@@ -1,0 +1,14 @@
+{
+    "scripts": {
+        "build": "sheetbase-app-scripts build"
+    },
+    "dependencies": {
+        "@sheetbase/core-server": "~0.0.19"
+    },
+    "devDependencies": {
+        "@sheetbase/app-scripts": "^0.0.30",
+        "@types/google-apps-script": "^0.0.31",
+        "rollup-plugin-node-resolve": "^4.0.0",
+        "typescript": "^3.1.6"
+    }
+}
